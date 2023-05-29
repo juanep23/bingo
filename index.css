@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex;
+    align-items: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightgray;
+}
+
+#cartela h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#criarcartela{
+    width: 20ch;
+    height: 6ch;
+    border: 0;
+    border-radius: 2ch;
+    color: white;
+    background-color: deepskyblue;
+}
+
+#criarcartela:hover{
+    border: 2px solid lightsteelblue;
+}
+
+#reiniciar {
+    width: 20ch;
+    height: 6ch;
+    border: 0;
+    border-radius: 2ch;
+    color: white;
+    background-color: lightgrey;
+}
+
+#reiniciar:hover{
+    border: 2px solid lightsteelblue;
+}
+
+#jogar {
+    width: 20ch;
+    height: 6ch;
+    border: 0;
+    border-radius: 2ch;
+    color: white;
+    background-color: crimson;
+}
+
+#jogar:hover{
+    border: 2px solid lightsteelblue;
+} 
